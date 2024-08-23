@@ -10,7 +10,7 @@ I'am a brazilian student of Systems Analysis, Development, and Programming, alwa
 
 ## <b>Technologies that i use in my projects:</b>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h0wzy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h0wzy&layout=compact&theme=github_dark)
 
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
