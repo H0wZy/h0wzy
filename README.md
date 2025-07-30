@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=344532&center=true&vCenter=true&width=600&lines=Systems+Analysis+%26+Development+Student;Full-Stack+Developer;Technology+Enthusiast;Always+Learning+New+Things!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9945FF&center=true&vCenter=true&width=600&lines=Systems+Analysis+%26+Development+Student;Full-Stack+Developer;Technology+Enthusiast;Always+Learning+New+Things!)
 
 </div>
 
@@ -10,11 +10,7 @@
 
 ## 🚀 About Me
 
-<div align="center">
-  <img alt="Pixel Art Coding" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif">
-</div>
-
-<br>
+<img align="right" alt="Pixel Art Coding" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif">
 
 🎓 **Brazilian Student** of Systems Analysis, Development, and Programming  
 💻 **Passionate** about technology and software development  
@@ -23,10 +19,10 @@
 📚 **Studying** modern software architecture patterns  
 
 ### 🔗 Connect with me
-[![Linktree](https://img.shields.io/badge/linktree-344532?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linktr.ee/h0wzy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-344532?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosh0wzy/)
-[![Behance](https://img.shields.io/badge/Behance-344532?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marcosselzler)
-[![Email](https://img.shields.io/badge/Email-344532?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h0wzymarcos@gmail.com)
+[![Linktree](https://img.shields.io/badge/linktree-9945FF?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linktr.ee/h0wzy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9945FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosh0wzy/)
+[![Behance](https://img.shields.io/badge/Behance-9945FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marcosselzler)
+[![Email](https://img.shields.io/badge/Email-9945FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h0wzymarcos@gmail.com)
 
 ---
 
@@ -34,9 +30,9 @@
 
 <div align="center">
   
-![H0wZy's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0wzy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=344532&icon_color=344532&text_color=c9d1d9)
+![H0wZy's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0wzy&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&icon_color=9945FF&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h0wzy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=344532&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h0wzy&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff)
 
 </div>
 
@@ -46,28 +42,28 @@
 
 ### **Backend Development**
 <div style="display: inline_block">
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-344532?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-344532?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-344532?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align="center" alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-344532?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-9945FF?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-9945FF?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-9945FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-9945FF?style=for-the-badge&logo=.net&logoColor=white"/>
 </div>
 
 ### **Frontend Development**
 <div style="display: inline_block">
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-344532?style=for-the-badge&logo=react&logoColor=white"/>
-  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-344532?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-344532?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-344532?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-344532?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-344532?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-9945FF?style=for-the-badge&logo=react&logoColor=white"/>
+  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-9945FF?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-9945FF?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-9945FF?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-9945FF?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-9945FF?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
 ### **Database & Tools**
 <div style="display: inline_block">
-  <img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-344532?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-344532?style=for-the-badge&logo=git&logoColor=white"/>
-  <img align="center" alt="Rider" src="https://img.shields.io/badge/JetBrains%20Rider-344532?style=for-the-badge&logo=jetbrains&logoColor=white"/>
-  <img align="center" alt="VS Code" src="https://img.shields.io/badge/VS%20Code-344532?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-9945FF?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-9945FF?style=for-the-badge&logo=git&logoColor=white"/>
+  <img align="center" alt="Rider" src="https://img.shields.io/badge/JetBrains%20Rider-9945FF?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+  <img align="center" alt="VS Code" src="https://img.shields.io/badge/VS%20Code-9945FF?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 
 ---
@@ -95,7 +91,7 @@ const marcos = {
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=h0wzy&theme=github-dark-green&hide_border=true&background=0D1117&ring=344532&fire=344532&currStreakLabel=344532&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=h0wzy&theme=dark&hide_border=true&background=000000&ring=9945FF&fire=9945FF&currStreakLabel=9945FF&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff)](https://git.io/streak-stats)
 
 </div>
 
@@ -105,7 +101,7 @@ const marcos = {
 
 <div align="center">
 
-[![JWT API](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=jwt&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=344532&text_color=c9d1d9&icon_color=344532)](https://github.com/h0wzy/jwt)
+[![JWT API](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=jwt&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/h0wzy/jwt)
 
 </div>
 
@@ -128,8 +124,8 @@ const marcos = {
 
 <div align="center">
   
-**⭐ From [H0wZy](https://github.com/h0wzy) with 💚**
+**⭐ From [H0wZy](https://github.com/h0wzy) with 💜**
 
-![Profile Views](https://komarev.com/ghpvc/?username=h0wzy&color=344532&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=h0wzy&color=9945FF&style=flat-square)
 
 </div>
