@@ -10,7 +10,11 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<div align="center">
+  <img alt="Pixel Art Coding" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif">
+</div>
+
+<br>
 
 🎓 **Brazilian Student** of Systems Analysis, Development, and Programming  
 💻 **Passionate** about technology and software development  
