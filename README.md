@@ -15,8 +15,8 @@
 🎓 **Brazilian Technologist** in Systems Analysis and Development (Since 06/2025)  
 💻 **Passionate** about technology and software development  
 🌱 **Always eager** to learn new technologies and best practices  
-🎯 **Currently focusing** on backend development with .NET and frontend with React/Angular  
-📚 **Studying** modern software architecture patterns  
+🎯 **Currently focusing** on backend development with .NET and Java Spring Boot  
+📚 **Studying** modern software architecture patterns and JWT authentication  
 
 ### 🔗 Connect with me
 [![Linktree](https://img.shields.io/badge/linktree-9945FF?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linktr.ee/h0wzymarcos)
@@ -45,6 +45,7 @@
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-9945FF?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-9945FF?style=for-the-badge&logo=.net&logoColor=white"/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-9945FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-9945FF?style=for-the-badge&logo=spring&logoColor=white"/>
   <img align="center" alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-9945FF?style=for-the-badge&logo=.net&logoColor=white"/>
 </div>
 
@@ -64,6 +65,7 @@
   <img align="center" alt="Git" src="https://img.shields.io/badge/Git-9945FF?style=for-the-badge&logo=git&logoColor=white"/>
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-9945FF?style=for-the-badge&logo=docker&logoColor=white"/>
   <img align="center" alt="Rider" src="https://img.shields.io/badge/JetBrains%20Rider-9945FF?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+  <img align="center" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-9945FF?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img align="center" alt="VS Code" src="https://img.shields.io/badge/VS%20Code-9945FF?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 
@@ -73,16 +75,19 @@
 
 ```javascript
 const marcos = {
-    currentlyLearning: ["JWT Authentication", "Repository Pattern", "SOLID Principles"],
+    currentlyLearning: ["JWT Authentication", "Spring Boot", "Repository Pattern", "SOLID Principles"],
     workingOn: ["Full-Stack Web Applications", "REST APIs", "Clean Architecture"],
     technologies: {
-        backend: ["C#", ".NET 9", "Entity Framework", "SQL Server"],
+        backend: ["C#", ".NET 9", "Java", "Spring Boot", "Entity Framework"],
         frontend: ["React", "Angular", "TypeScript", "JavaScript"],
-        tools: ["JetBrains Rider", "Git", "Docker", "Swagger"]
+        tools: ["JetBrains Rider", "IntelliJ IDEA", "Git", "Docker", "Swagger"]
     },
     architecture: ["Repository Pattern", "Dependency Injection", "Clean Code"],
-    databases: ["SQL Server", "Entity Framework Core"],
-    currentProject: "JWT Authentication API with .NET 9"
+    databases: ["SQL Server", "H2", "Entity Framework Core", "Spring Data JPA"],
+    currentProjects: [
+        "JWT Authentication API with .NET 9",
+        "JWT Authentication API with Spring Boot"
+    ]
 };
 ```
 
@@ -101,11 +106,12 @@ const marcos = {
 ## 🌟 Featured Projects
 
 <div align="center">
+  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
+    
+[![JWT C# API](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=jwt-csharp&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/h0wzy/jwt-csharp)
+[![JWT Java API](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=jwt-java&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/h0wzy/jwt-java)
 
-[![JWT API](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=jwt-csharp&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/h0wzy/jwt-csharp)
-
-[![JWT API](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=jwt-java&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/h0wzy/jwt-java)
-
+  </div>
 </div>
 
 ---
