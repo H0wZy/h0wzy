@@ -102,7 +102,7 @@ const marcos = {
 
 <div align="center">
 
-[![JWT API](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=jwt&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/h0wzy/jwt)
+[![JWT API](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=jwt-csharp&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/h0wzy/jwt)
 
 </div>
 
