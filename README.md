@@ -12,7 +12,7 @@
 
 <img align="right" alt="Pixel Art Coding" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif">
 
-🎓 **Brazilian Student** of Systems Analysis, Development, and Programming  
+🎓 **Brazilian Technologist** in Systems Analysis and Development – Completed in [06/2025]
 💻 **Passionate** about technology and software development  
 🌱 **Always eager** to learn new technologies and best practices  
 🎯 **Currently focusing** on backend development with .NET and frontend with React/Angular  
