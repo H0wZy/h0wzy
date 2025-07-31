@@ -19,7 +19,7 @@
 📚 **Studying** modern software architecture patterns  
 
 ### 🔗 Connect with me
-[![Linktree](https://img.shields.io/badge/linktree-9945FF?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linktr.ee/h0wzy)
+[![Linktree](https://img.shields.io/badge/linktree-9945FF?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linktr.ee/h0wzymarcos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9945FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosh0wzy/)
 [![Behance](https://img.shields.io/badge/Behance-9945FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marcosselzler)
 [![Email](https://img.shields.io/badge/Email-9945FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h0wzymarcos@gmail.com)
@@ -116,7 +116,7 @@ const marcos = {
 📧 **Email:** [h0wzymarcos@gmail.com](mailto:h0wzymarcos@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/marcosh0wzy](https://www.linkedin.com/in/marcosh0wzy/)  
 🎨 **Behance:** [behance.net/marcosselzler](https://www.behance.net/marcosselzler)  
-🌳 **Linktree:** [linktr.ee/h0wzy](https://linktr.ee/h0wzy)
+🌳 **Linktree:** [linktr.ee/h0wzy](https://linktr.ee/h0wzymarcos)
 
 </div>
 
