@@ -28,11 +28,11 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   
-![H0wZy's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0wzy&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&icon_color=9945FF&text_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api?username=h0wzy&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&icon_color=9945FF&text_color=ffffff" alt="H0wZy's GitHub stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h0wzy&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0wzy&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff" alt="Top Languages" />
 
 </div>
 
@@ -62,6 +62,7 @@
 <div style="display: inline_block">
   <img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-9945FF?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img align="center" alt="Git" src="https://img.shields.io/badge/Git-9945FF?style=for-the-badge&logo=git&logoColor=white"/>
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-9945FF?style=for-the-badge&logo=docker&logoColor=white"/>
   <img align="center" alt="Rider" src="https://img.shields.io/badge/JetBrains%20Rider-9945FF?style=for-the-badge&logo=jetbrains&logoColor=white"/>
   <img align="center" alt="VS Code" src="https://img.shields.io/badge/VS%20Code-9945FF?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
@@ -113,10 +114,10 @@ const marcos = {
 
 **Let's connect and build something amazing together!**
 
-📧 **Email:** [h0wzymarcos@gmail.com](mailto:h0wzymarcos@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/marcosh0wzy](https://www.linkedin.com/in/marcosh0wzy/)  
-🎨 **Behance:** [behance.net/marcosselzler](https://www.behance.net/marcosselzler)  
-🌳 **Linktree:** [linktr.ee/h0wzy](https://linktr.ee/h0wzymarcos)
+[![Linktree](https://img.shields.io/badge/linktree-9945FF?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linktr.ee/h0wzymarcos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9945FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosh0wzy/)
+[![Behance](https://img.shields.io/badge/Behance-9945FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marcosselzler)
+[![Email](https://img.shields.io/badge/Email-9945FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h0wzymarcos@gmail.com)
 
 </div>
 
