@@ -107,6 +107,8 @@ const marcos = {
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
+[![JWT JakartaEE API](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=jwt-jakartaEE&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/h0wzy/jwt-jakartaEE)
+
 [![JWT C# API](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=jwt-csharp&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/h0wzy/jwt-csharp)
 
 [![JWT Java API](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=jwt-java&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/h0wzy/jwt-java)
