@@ -44,9 +44,11 @@
 <div style="display: inline_block">
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-9945FF?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-9945FF?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img align="center" alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-9945FF?style=for-the-badge&logo=.net&logoColor=white"/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-9945FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-9945FF?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img align="center" alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-9945FF?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img align="center" alt="Hibernate" src="https://img.shields.io/badge/Hibernate-9945FF?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
 </div>
 
 ### **Frontend Development**
