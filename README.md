@@ -30,10 +30,11 @@
 
 ## 🏆 Awards & Achievements
 
-| 🥇 | Event | Date | Project |
+| 🥇 | Event | Date | Project / Certification |
 |---|---|---|---|
 | 🏆 Champion | TCS AI Friday | 05/2026 | **Pipeverse** — AI adoption failure prediction engine |
 | 🏆 Champion | TCS AI Friday | 02/2026 | **Energy Saver** — LLM-based energy consumption analyzer |
+| 📜 Certified | freeCodeCamp / Microsoft | 06/2025 | [**Foundational C# with Microsoft**](https://www.freecodecamp.org/certification/h0wzy/foundational-c-sharp-with-microsoft) |
 
 ---
 
@@ -195,7 +196,8 @@ const marcos = {
 
 [![Linktree](https://img.shields.io/badge/linktree-9945FF?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linktr.ee/h0wzymarcos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9945FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosh0wzy/)
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-9945FF?style=for-the-badge&logo=freecodecamp&logoColor=whit)](https://www.freecodecamp.org/h0wzy)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-9945FF?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/h0wzy)
+[![C# Certification](https://img.shields.io/badge/C%23%20Certification-9945FF?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/h0wzy/foundational-c-sharp-with-microsoft)
 [![Behance](https://img.shields.io/badge/Behance-9945FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marcosselzler)
 [![Business Email](https://img.shields.io/badge/Business%20Email-9945FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:howzysolutions@gmail.com)
 [![Personal Email](https://img.shields.io/badge/Personal%20Email-9945FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h0wzymarcos@gmail.com)
