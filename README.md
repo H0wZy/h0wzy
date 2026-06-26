@@ -115,9 +115,15 @@ const marcos = {
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<a href="https://frontend-4mxyivrfva-rj.a.run.app/" target="_blank">
-  <img src="https://via.placeholder.com/800x200?text=Telas+Paran%C3%A1" alt="Telas Paraná" />
-</a>
+### 🏗️ Telas Paraná
+
+Rebuild completo da plataforma utilizando arquitetura moderna.
+
+- 🌐 Produção Atual:
+  https://frontend-4mxyivrfva-rj.a.run.app/
+
+- 📜 Versão Legada:
+  https://telasearamesparana.com.br/
 
 [![howzysolutions](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=howzysolutions&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/H0wZy/howzysolutions)
 
@@ -157,6 +163,7 @@ const marcos = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9945FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosh0wzy/)
 [![Behance](https://img.shields.io/badge/Behance-9945FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marcosselzler)
 [![Email](https://img.shields.io/badge/Email-9945FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h0wzymarcos@gmail.com)
+[![Email (Works)](https://img.shields.io/badge/Email-9945FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto: howzysolutions@gmail.com)
 
 </div>
 
