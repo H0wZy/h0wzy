@@ -115,13 +115,13 @@ const marcos = {
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-[![Telas Paraná](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=telas-parana&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://frontend-4mxyivrfva-rj.a.run.app/)
+[![Telas Paraná](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=telasparana&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://frontend-4mxyivrfva-rj.a.run.app/)
 
-[![howzysolutions](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=telas-parana&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/H0wZy/howzysolutions)
+[![howzysolutions](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=howzysolutions&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/H0wZy/howzysolutions)
 
-[![Go User API](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=user-api-go&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/H0wZy/user-api)
+[![Go User API](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=user-api&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/H0wZy/user-api)
 
-[![C# User API](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=user-api-csharp&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/H0wZy/UserApi)
+[![C# User API](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=UserApi&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/H0wZy/UserApi)
 
 </div>
 
