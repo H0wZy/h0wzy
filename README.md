@@ -115,7 +115,9 @@ const marcos = {
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-[![Telas Paraná](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=telasparana&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://frontend-4mxyivrfva-rj.a.run.app/)
+<a href="https://frontend-4mxyivrfva-rj.a.run.app/" target="_blank">
+  <img src="https://via.placeholder.com/800x200?text=Telas+Paran%C3%A1" alt="Telas Paraná" />
+</a>
 
 [![howzysolutions](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=howzysolutions&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/H0wZy/howzysolutions)
 
