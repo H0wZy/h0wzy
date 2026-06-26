@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=9945FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+TCS;Full-Stack+%7C+Backend+%7C+Cloud;Two-time+TCS+AI+Friday+Champion+%F0%9F%8F%86;Go+%7C+.NET+C%23+%7C+Java+%7C+React;Always+Building%2C+Always+Learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=9945FF&center=true&vCenter=true&width=700&lines=Software+Engineer+at+%40tcsglobal;Full-Stack+%7C+Backend+%7C+Cloud;Two-time+TCS+AI+Friday+Champion+%F0%9F%8F%86;Go+%7C+.NET+C%23+%7C+Java+%7C+React;Always+Building%2C+Always+Learning)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 🏆 **Two-time TCS AI Friday Champion** — LLM & predictive model solutions  
 🎓 **Technologist in Systems Analysis and Development** — Unicesumar (2025)  
-💼 **Software Engineer @ TCS** — Copel account (GCP, Java/JSF, Golang, .NET)  
+💼 **Software Engineer @tcsglobal** — Copel account (GCP, Java/JSF, Golang, .NET)  
 ☁️ **Cloud-native** — migrating legacy systems to GCP/AWS with Terraform  
 🌱 **Currently going deep on** Go, cloud architecture and AI tooling  
 🎯 **Focused on** Clean Code, SOLID, REST APIs and backend engineering  
