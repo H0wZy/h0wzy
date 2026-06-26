@@ -23,8 +23,8 @@
 
 [![Linktree](https://img.shields.io/badge/linktree-9945FF?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linktr.ee/h0wzymarcos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9945FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosh0wzy/)
-[![Behance](https://img.shields.io/badge/Behance-9945FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marcosselzler)
-[![Email](https://img.shields.io/badge/Email-9945FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h0wzymarcos@gmail.com)
+[![Business Email](https://img.shields.io/badge/Business%20Email-9945FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:howzysolutions@gmail.com)
+[![Personal Email](https://img.shields.io/badge/Personal%20Email-9945FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h0wzymarcos@gmail.com)
 
 ---
 
@@ -109,21 +109,55 @@ const marcos = {
 };
 ```
 
----
-
 ## 🌟 Featured Projects
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-### 🏗️ Telas Paraná
+<div align="center">
+  
+<table>
+  <tr>
+    <td width="100%" align="left">
+      <h3>🏗️ Telas Paraná | Full-Stack Platform Rebuild</h3>
+      <p>
+        Complete rebuild of the legacy platform using a modern full-stack architecture,
+        focused on performance, scalability, maintainability and cloud-native deployment.
+      </p>
+      <p>
+        <strong>Highlights:</strong>
+      </p>
+      <ul>
+        <li>Modern frontend experience replacing the legacy website</li>
+        <li>Production deployment on Google Cloud Run</li>
+        <li>Improved architecture for future integrations and maintainability</li>
+        <li>Private repository due to client/business constraints</li>
+      </ul>
+      <p>
+        <strong>Tech Stack:</strong>
+      </p>
+      <p>
+        <img alt="C#" src="https://img.shields.io/badge/C%23-9945FF?style=for-the-badge&logo=csharp&logoColor=white"/>
+        <img alt="React" src="https://img.shields.io/badge/React-9945FF?style=for-the-badge&logo=react&logoColor=white"/>
+        <img alt="Next.js" src="https://img.shields.io/badge/Next.js-9945FF?style=for-the-badge&logo=next.js&logoColor=white"/>
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-9945FF?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img alt="GCP" src="https://img.shields.io/badge/GCP-9945FF?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+        <img alt="Cloud Run" src="https://img.shields.io/badge/Cloud%20Run-9945FF?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://frontend-4mxyivrfva-rj.a.run.app/">
+          <img src="https://img.shields.io/badge/Production-9945FF?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+        </a>
+        <a href="https://telasearamesparana.com.br/">
+          <img src="https://img.shields.io/badge/Legacy%20Version-9945FF?style=for-the-badge&logo=internetexplorer&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-Rebuild completo da plataforma utilizando arquitetura moderna.
+</div>
 
-- 🌐 Produção Atual:
-  https://frontend-4mxyivrfva-rj.a.run.app/
-
-- 📜 Versão Legada:
-  https://telasearamesparana.com.br/
+<div align="center">
 
 [![howzysolutions](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=howzysolutions&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/H0wZy/howzysolutions)
 
@@ -161,9 +195,10 @@ Rebuild completo da plataforma utilizando arquitetura moderna.
 
 [![Linktree](https://img.shields.io/badge/linktree-9945FF?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linktr.ee/h0wzymarcos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9945FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosh0wzy/)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-9945FF?style=for-the-badge&logo=freecodecamp&logoColor=whit)](https://www.freecodecamp.org/h0wzy)
 [![Behance](https://img.shields.io/badge/Behance-9945FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marcosselzler)
-[![Email](https://img.shields.io/badge/Email-9945FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h0wzymarcos@gmail.com)
-[![Email (Works)](https://img.shields.io/badge/Email-9945FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto: howzysolutions@gmail.com)
+[![Business Email](https://img.shields.io/badge/Business%20Email-9945FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:howzysolutions@gmail.com)
+[![Personal Email](https://img.shields.io/badge/Personal%20Email-9945FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h0wzymarcos@gmail.com)
 
 </div>
 
