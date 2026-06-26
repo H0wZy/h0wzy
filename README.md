@@ -206,7 +206,21 @@ const marcos = {
 
 ---
 
+## 📄 Resume / CV
+
 <div align="center">
+
+**Want to know more about my professional background?**
+
+[![Download CV EN](https://img.shields.io/badge/Download%20CV-English-9945FF?style=for-the-badge&logo=readme&logoColor=white)](https://raw.githubusercontent.com/H0wZy/curriculum-vitae/main/files/ENG_CV_Marcos_Junior_Bueno_Selzler.pdf)
+[![Download CV PT-BR](https://img.shields.io/badge/Download%20CV-PT--BR-9945FF?style=for-the-badge&logo=readme&logoColor=white)](https://raw.githubusercontent.com/H0wZy/curriculum-vitae/main/files/PTBR_CV_Marcos_Junior_Bueno_Selzler.pdf)
+[![CV Repository](https://img.shields.io/badge/CV%20Repository-9945FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/H0wZy/curriculum-vitae)
+
+</div>
+
+<div align="center">
+
+---
 
 **⭐ From [H0wZy](https://github.com/h0wzy) with 💜**
 
