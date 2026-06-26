@@ -92,7 +92,7 @@
 
 ```javascript
 const marcos = {
-    role:    "Software Engineer @ TCS (Copel account)",
+    role:    "Software Engineer at @tcsglobal (Copel account)",
     stack:   ["Go", "C#/.NET", "Java/JSF", "React/Next.js", "TypeScript"],
     cloud:   ["GCP (Cloud Run, Cloud SQL, GCS)", "AWS", "Terraform"],
     ai:      ["LLM-powered solutions", "Predictive models", "Prompt engineering"],
@@ -115,13 +115,13 @@ const marcos = {
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-[![Telas Paraná](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=telas-parana&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/h0wzy/telas-parana)
+[![Telas Paraná](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=telas-parana&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://frontend-4mxyivrfva-rj.a.run.app/)
 
-[![Pipeverse](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=pipeverse&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/h0wzy/pipeverse)
+[![howzysolutions](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=telas-parana&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/H0wZy/howzysolutions)
 
-[![Go User API](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=user-api-go&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/h0wzy/user-api-go)
+[![Go User API](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=user-api-go&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/H0wZy/user-api)
 
-[![C# User API](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=user-api-csharp&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/h0wzy/user-api-csharp)
+[![C# User API](https://github-readme-stats.vercel.app/api/pin/?username=h0wzy&repo=user-api-csharp&theme=github_dark&hide_border=true&bg_color=000000&title_color=9945FF&text_color=ffffff&icon_color=9945FF)](https://github.com/H0wZy/UserApi)
 
 </div>
 
