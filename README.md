@@ -10,6 +10,8 @@
 
 ## 🚀 About Me
 
+[![wakatime](https://wakatime.com/badge/user/4d2dcfae-71d8-4031-a960-db6cd1b3d46d.svg)](https://wakatime.com/@4d2dcfae-71d8-4031-a960-db6cd1b3d46d)
+
 <img align="right" alt="Pixel Art Coding" width="380" src="https://i.redd.it/bpxxqqvps4h91.gif">
 
 🏆 **Two-time TCS AI Friday Champion** — LLM & predictive model solutions  
