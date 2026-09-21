@@ -87,10 +87,11 @@ Explore the full case studies and declared limitations at **[howzysolutions.com/
 
 | Project | Stack & Architecture | Links |
 |:---|:---|:---:|
+| **[H0wZy/mcp](https://github.com/H0wZy/mcp)**<br/>*Multi-agent MCP hub & Go CLI connecting Claude, Codex & Antigravity* | Go, Node.js, TypeScript, Bubble Tea, JSON-RPC 2.0 | [📖 Showcase](https://howzysolutions.com/mcp) · [📦 Repo](https://github.com/H0wZy/mcp) |
 | **[howzysolutions.com](https://howzysolutions.com)**<br/>*Personal static-first portfolio & terminal engine* | React 19, TypeScript, Tailwind 4, Vite 8, Vitest, Cloudflare Workers Assets | [🌐 Live](https://howzysolutions.com) · [📦 Repo](https://github.com/H0wZy/howzysolutions) |
-| **Telas Paraná**<br/>*Industrial & e-commerce platform rebuild* | C#, React, Next.js, TypeScript, Google Cloud Run | [📖 Case Study](https://howzysolutions.com/works/telasparana/) · [🚀 Production](https://frontend-4mxyivrfva-rj.a.run.app/) |
+| **Telas Paraná**<br/>*Industrial & e-commerce platform rebuild*<br/>⏸️ *Paused / On Hiatus* | C#, React, Next.js, TypeScript, Google Cloud Run | [📖 Case Study](https://howzysolutions.com/works/telasparana/) |
 | **ViralVideoGen**<br/>*AI-powered video generation & editing engine* | Python, FFmpeg, Gemini API, Cloudflare Workers | [📖 Case Study](https://howzysolutions.com/works/viralvideogen/) |
-| **Selzler Construtora**<br/>*Modern institutional web platform* | Astro, Tailwind CSS, TypeScript, Vercel | [📖 Case Study](https://howzysolutions.com/works/selzler-construtora/) · [🌐 Live](https://selzlerconstrutora.com.br/) |
+| **Selzler Construtora**<br/>*Modern institutional web platform*<br/>⏸️ *Paused / On Hiatus* | C#, React, Next.js, TypeScript, Tailwind, Docker | [📖 Case Study](https://howzysolutions.com/works/selzler-construtora/) |
 | **Go User API**<br/>*Production backend microservice* | Golang, Gin, GORM, PostgreSQL, Docker, Clean Architecture | [📦 Repo](https://github.com/H0wZy/user-api) |
 | **C# User API**<br/>*Enterprise REST API with unit test suite* | C#, .NET 8, EF Core, PostgreSQL, xUnit, Swagger | [📦 Repo](https://github.com/H0wZy/UserApi) |
 
